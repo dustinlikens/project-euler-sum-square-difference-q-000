@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/sum_square_difference.rb'
+
+sum_square_difference(100)
